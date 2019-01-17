@@ -1,4 +1,4 @@
-package com.example.demo.MyQueue;
+package com.example.Module1.MyQueue;
 
 /**
  * 模拟阻塞队列测试

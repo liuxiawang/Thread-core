@@ -1,4 +1,4 @@
-package com.example.demo.ThreadSafely;
+package com.example.Module1.ThreadSafely;
 
 /**
  * ThreadLocal，为每个独立的线程开辟独立的存储空间

@@ -1,4 +1,4 @@
-package com.example.demo.UseConcurrentQueue;
+package com.example.Module1.UseConcurrentQueue;
 
 import java.util.concurrent.PriorityBlockingQueue;
 

@@ -1,4 +1,4 @@
-package com.example.demo.juc;
+package com.example.Module1.juc;
 
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;

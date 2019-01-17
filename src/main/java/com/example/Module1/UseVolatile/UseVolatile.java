@@ -1,4 +1,4 @@
-package com.example.demo.UseVolatile;
+package com.example.Module1.UseVolatile;
 
 /**
  * 使用volatile关键字，使得两个线程之间的参数可见.

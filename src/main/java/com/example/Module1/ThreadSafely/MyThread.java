@@ -1,4 +1,4 @@
-package com.example.demo.ThreadSafely;
+package com.example.Module1.ThreadSafely;
 
 /**
  * 线程安全.

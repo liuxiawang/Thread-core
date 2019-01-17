@@ -1,4 +1,4 @@
-package com.example.demo.aqs;
+package com.example.Module1.aqs;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 

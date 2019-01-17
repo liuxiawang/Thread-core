@@ -1,4 +1,4 @@
-package com.example.demo.SimulationMasterWorker;
+package com.example.Module1.SimulationMasterWorker;
 
 import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;

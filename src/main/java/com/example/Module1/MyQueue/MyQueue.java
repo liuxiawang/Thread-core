@@ -1,4 +1,4 @@
-package com.example.demo.MyQueue;
+package com.example.Module1.MyQueue;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicInteger;

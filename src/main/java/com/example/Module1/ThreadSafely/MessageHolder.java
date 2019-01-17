@@ -1,4 +1,4 @@
-package com.example.demo.ThreadSafely;
+package com.example.Module1.ThreadSafely;
 
 import java.util.ArrayList;
 import java.util.List;

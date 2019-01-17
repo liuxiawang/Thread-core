@@ -1,4 +1,4 @@
-package com.example.demo.TwoThreadCommunication;
+package com.example.Module1.TwoThreadCommunication;
 
 import java.util.ArrayList;
 import java.util.List;
